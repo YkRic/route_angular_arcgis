@@ -10,4 +10,5 @@ A variável 'TotalPoints' indica  número de pontos necessários para desenhar a
 
 Para instalar os plugins do ArcGis num projeto angular: 
 - npm install @esri/arcgis-rest-request
+- npm install @esri/arcgis-rest-common
 - npm install @esri/arcgis-rest-routing
