@@ -72,7 +72,7 @@ export class AppComponent implements AfterViewInit{
   public updateRoute() {
 
     const authentication = new UserSession({
-      token: "AAPKdf2b6c7b89af454399f8c0d31198b3b7R7JzNYwwf7-g0k000NMIjziT_VPhMSMnRwUZ2BSWe21Sk9Rprdm6Bj_64VkCdNH2"  
+      token: ""  
     })      
     
     
